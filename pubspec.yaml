@@ -31,7 +31,7 @@ dependencies:
     path: packages/notifications_client/firebase_notifications_client
   firebase_remote_config_repository:
     path: packages/firebase_remote_config_repository
-  flex_color_scheme: ^8.3.1
+  flex_color_scheme: ^8.4.0
   flutter:
     sdk: flutter
   flutter_animate: ^4.5.2
