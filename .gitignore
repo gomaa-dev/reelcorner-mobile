@@ -137,9 +137,12 @@ app.*.symbols
 # Obfuscation related
 app.*.map.json
 
-**/screenshots/
+*screenshot*
+*screenshots*
+**/*screenshot*/**
 *.mov
 *.mp4
+*.gif
 
 # Exceptions to the above rules.
 !**/ios/**/default.mode1v3
